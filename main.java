@@ -1,0 +1,3 @@
+clas main.java{
+    
+}
